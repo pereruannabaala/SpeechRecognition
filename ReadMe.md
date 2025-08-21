@@ -1,4 +1,4 @@
-# Speech Transcriber 🎙️
+# 🎙️ Speech Transcriber 
 
 A Flask-based web application that converts speech into text using the **SpeechRecognition** library.<br>This project allows users to upload or record audio and receive an accurate text transcription in real time.
 
